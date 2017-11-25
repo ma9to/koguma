@@ -1,0 +1,11 @@
+{
+  "name": "koguma",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/ma9to/koguma",
+  "author": "ma9to",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "^0.6.7"
+  }
+}
